@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Desafio TEIA</string>
+    <string name="entre_com_seu_apelido">Entre com seu apelido</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
+    <string name="apelido">Digite seu Apelido</string>
+    <string name="EditTextApelido">Apelido</string>
+    <string name="btnCheck">OK?</string>
+
+</resources>
